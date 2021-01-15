@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\bin\Debug\netcoreapp3.1\exam1BasicProgramming.exe
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\bin\Debug\netcoreapp3.1\exam1BasicProgramming.deps.json
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\bin\Debug\netcoreapp3.1\exam1BasicProgramming.runtimeconfig.json
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\bin\Debug\netcoreapp3.1\exam1BasicProgramming.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\bin\Debug\netcoreapp3.1\exam1BasicProgramming.dll
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\bin\Debug\netcoreapp3.1\exam1BasicProgramming.pdb
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\obj\Debug\netcoreapp3.1\exam1BasicProgramming.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\obj\Debug\netcoreapp3.1\exam1BasicProgramming.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\obj\Debug\netcoreapp3.1\exam1BasicProgramming.AssemblyInfo.cs
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\obj\Debug\netcoreapp3.1\exam1BasicProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\obj\Debug\netcoreapp3.1\exam1BasicProgramming.dll
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\obj\Debug\netcoreapp3.1\exam1BasicProgramming.pdb
+C:\Users\Titan\source\repos\exam1BasicProgramming\exam1BasicProgramming\obj\Debug\netcoreapp3.1\exam1BasicProgramming.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\bin\Debug\netcoreapp3.1\SecondWeek.exe
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\bin\Debug\netcoreapp3.1\SecondWeek.deps.json
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\bin\Debug\netcoreapp3.1\SecondWeek.runtimeconfig.json
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\bin\Debug\netcoreapp3.1\SecondWeek.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\bin\Debug\netcoreapp3.1\SecondWeek.dll
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\bin\Debug\netcoreapp3.1\SecondWeek.pdb
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\obj\Debug\netcoreapp3.1\SecondWeek.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\obj\Debug\netcoreapp3.1\SecondWeek.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\obj\Debug\netcoreapp3.1\SecondWeek.AssemblyInfo.cs
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\obj\Debug\netcoreapp3.1\SecondWeek.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\obj\Debug\netcoreapp3.1\SecondWeek.dll
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\obj\Debug\netcoreapp3.1\SecondWeek.pdb
+C:\Users\Titan\source\repos\SecondWeek\SecondWeek\obj\Debug\netcoreapp3.1\SecondWeek.genruntimeconfig.cache

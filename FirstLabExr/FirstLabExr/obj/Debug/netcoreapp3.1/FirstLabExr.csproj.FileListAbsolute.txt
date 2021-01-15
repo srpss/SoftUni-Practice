@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\bin\Debug\netcoreapp3.1\FirstLabExr.exe
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\bin\Debug\netcoreapp3.1\FirstLabExr.deps.json
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\bin\Debug\netcoreapp3.1\FirstLabExr.runtimeconfig.json
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\bin\Debug\netcoreapp3.1\FirstLabExr.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\bin\Debug\netcoreapp3.1\FirstLabExr.dll
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\bin\Debug\netcoreapp3.1\FirstLabExr.pdb
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\obj\Debug\netcoreapp3.1\FirstLabExr.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\obj\Debug\netcoreapp3.1\FirstLabExr.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\obj\Debug\netcoreapp3.1\FirstLabExr.AssemblyInfo.cs
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\obj\Debug\netcoreapp3.1\FirstLabExr.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\obj\Debug\netcoreapp3.1\FirstLabExr.dll
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\obj\Debug\netcoreapp3.1\FirstLabExr.pdb
+C:\Users\Titan\source\repos\FirstLabExr\FirstLabExr\obj\Debug\netcoreapp3.1\FirstLabExr.genruntimeconfig.cache
