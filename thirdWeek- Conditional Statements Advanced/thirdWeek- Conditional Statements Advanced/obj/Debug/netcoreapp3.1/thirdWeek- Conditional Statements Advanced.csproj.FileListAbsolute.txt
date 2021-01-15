@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\bin\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.exe
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\bin\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.deps.json
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\bin\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.runtimeconfig.json
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\bin\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\bin\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.dll
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\bin\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.pdb
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\obj\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\obj\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\obj\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.AssemblyInfo.cs
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\obj\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\obj\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.dll
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\obj\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.pdb
+C:\Users\Titan\source\repos\thirdWeek- Conditional Statements Advanced\thirdWeek- Conditional Statements Advanced\obj\Debug\netcoreapp3.1\thirdWeek- Conditional Statements Advanced.genruntimeconfig.cache
