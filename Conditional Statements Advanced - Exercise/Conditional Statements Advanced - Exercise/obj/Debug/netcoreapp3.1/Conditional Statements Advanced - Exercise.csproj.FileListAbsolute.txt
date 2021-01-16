@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.exe
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.deps.json
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.runtimeconfig.json
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.dll
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.pdb
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.AssemblyInfo.cs
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.dll
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.pdb
+C:\Users\Titan\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp3.1\Conditional Statements Advanced - Exercise.genruntimeconfig.cache
