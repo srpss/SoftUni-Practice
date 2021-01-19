@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\netcoreapp3.1\For Loop - Exercise.exe
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\netcoreapp3.1\For Loop - Exercise.deps.json
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\netcoreapp3.1\For Loop - Exercise.runtimeconfig.json
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\netcoreapp3.1\For Loop - Exercise.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\netcoreapp3.1\For Loop - Exercise.dll
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\netcoreapp3.1\For Loop - Exercise.pdb
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp3.1\For Loop - Exercise.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp3.1\For Loop - Exercise.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp3.1\For Loop - Exercise.AssemblyInfo.cs
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp3.1\For Loop - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp3.1\For Loop - Exercise.dll
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp3.1\For Loop - Exercise.pdb
+C:\Users\Titan\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp3.1\For Loop - Exercise.genruntimeconfig.cache
