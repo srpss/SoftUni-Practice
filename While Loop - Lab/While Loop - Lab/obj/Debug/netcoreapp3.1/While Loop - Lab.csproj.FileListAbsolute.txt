@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\bin\Debug\netcoreapp3.1\While Loop - Lab.exe
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\bin\Debug\netcoreapp3.1\While Loop - Lab.deps.json
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\bin\Debug\netcoreapp3.1\While Loop - Lab.runtimeconfig.json
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\bin\Debug\netcoreapp3.1\While Loop - Lab.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\bin\Debug\netcoreapp3.1\While Loop - Lab.dll
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\bin\Debug\netcoreapp3.1\While Loop - Lab.pdb
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\obj\Debug\netcoreapp3.1\While Loop - Lab.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\obj\Debug\netcoreapp3.1\While Loop - Lab.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\obj\Debug\netcoreapp3.1\While Loop - Lab.AssemblyInfo.cs
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\obj\Debug\netcoreapp3.1\While Loop - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\obj\Debug\netcoreapp3.1\While Loop - Lab.dll
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\obj\Debug\netcoreapp3.1\While Loop - Lab.pdb
+C:\Users\Titan\source\repos\While Loop - Lab\While Loop - Lab\obj\Debug\netcoreapp3.1\While Loop - Lab.genruntimeconfig.cache
