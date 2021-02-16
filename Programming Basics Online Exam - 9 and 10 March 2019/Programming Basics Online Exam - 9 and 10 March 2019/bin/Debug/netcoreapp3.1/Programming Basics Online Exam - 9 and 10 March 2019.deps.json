@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Programming Basics Online Exam - 9 and 10 March 2019/1.0.0": {
+        "runtime": {
+          "Programming Basics Online Exam - 9 and 10 March 2019.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programming Basics Online Exam - 9 and 10 March 2019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
