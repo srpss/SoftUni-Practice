@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\bin\Debug\netcoreapp3.1\Nested Loops - Exercise.exe
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\bin\Debug\netcoreapp3.1\Nested Loops - Exercise.deps.json
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\bin\Debug\netcoreapp3.1\Nested Loops - Exercise.runtimeconfig.json
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\bin\Debug\netcoreapp3.1\Nested Loops - Exercise.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\bin\Debug\netcoreapp3.1\Nested Loops - Exercise.dll
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\bin\Debug\netcoreapp3.1\Nested Loops - Exercise.pdb
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\obj\Debug\netcoreapp3.1\Nested Loops - Exercise.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\obj\Debug\netcoreapp3.1\Nested Loops - Exercise.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\obj\Debug\netcoreapp3.1\Nested Loops - Exercise.AssemblyInfo.cs
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\obj\Debug\netcoreapp3.1\Nested Loops - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\obj\Debug\netcoreapp3.1\Nested Loops - Exercise.dll
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\obj\Debug\netcoreapp3.1\Nested Loops - Exercise.pdb
+C:\Users\Titan\source\repos\Nested Loops - Exercise\Nested Loops - Exercise\obj\Debug\netcoreapp3.1\Nested Loops - Exercise.genruntimeconfig.cache
