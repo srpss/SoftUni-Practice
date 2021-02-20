@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\obj\Debug\netcoreapp3.1\Programming Basics Online Pre.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\obj\Debug\netcoreapp3.1\Programming Basics Online Pre.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\obj\Debug\netcoreapp3.1\Programming Basics Online Pre.AssemblyInfo.cs
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\obj\Debug\netcoreapp3.1\Programming Basics Online Pre.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\bin\Debug\netcoreapp3.1\Programming Basics Online Pre.exe
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\bin\Debug\netcoreapp3.1\Programming Basics Online Pre.deps.json
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\bin\Debug\netcoreapp3.1\Programming Basics Online Pre.runtimeconfig.json
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\bin\Debug\netcoreapp3.1\Programming Basics Online Pre.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\bin\Debug\netcoreapp3.1\Programming Basics Online Pre.dll
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\bin\Debug\netcoreapp3.1\Programming Basics Online Pre.pdb
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\obj\Debug\netcoreapp3.1\Programming Basics Online Pre.dll
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\obj\Debug\netcoreapp3.1\Programming Basics Online Pre.pdb
+C:\Users\Titan\source\repos\Programming Basics Online Pre\Programming Basics Online Pre\obj\Debug\netcoreapp3.1\Programming Basics Online Pre.genruntimeconfig.cache
