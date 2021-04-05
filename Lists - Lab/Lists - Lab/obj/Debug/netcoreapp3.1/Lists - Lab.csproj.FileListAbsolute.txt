@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp3.1\Lists - Lab.exe
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp3.1\Lists - Lab.deps.json
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp3.1\Lists - Lab.runtimeconfig.json
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp3.1\Lists - Lab.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp3.1\Lists - Lab.dll
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp3.1\Lists - Lab.pdb
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp3.1\Lists - Lab.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp3.1\Lists - Lab.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp3.1\Lists - Lab.AssemblyInfo.cs
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp3.1\Lists - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp3.1\Lists - Lab.dll
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp3.1\Lists - Lab.pdb
+C:\Users\Titan\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp3.1\Lists - Lab.genruntimeconfig.cache
