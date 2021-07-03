@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.exe
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.deps.json
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.runtimeconfig.json
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.dll
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.pdb
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.AssemblyInfo.cs
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.dll
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.pdb
+C:\Users\Titan\source\repos\02. Programming Fundamentals Mid Exam\02. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Mid Exam.genruntimeconfig.cache
