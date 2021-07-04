@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\bin\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.exe
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\bin\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.deps.json
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\bin\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.runtimeconfig.json
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\bin\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\bin\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.dll
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\bin\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.pdb
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\obj\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\obj\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\obj\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.AssemblyInfo.cs
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\obj\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\obj\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.dll
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\obj\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.pdb
+C:\Users\Titan\source\repos\03. Programming Fundamentals Mid Exam Retake\03. Programming Fundamentals Mid Exam Retake\obj\Debug\netcoreapp3.1\03. Programming Fundamentals Mid Exam Retake.genruntimeconfig.cache
