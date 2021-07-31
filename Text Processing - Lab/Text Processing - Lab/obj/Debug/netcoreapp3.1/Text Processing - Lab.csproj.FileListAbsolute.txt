@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\bin\Debug\netcoreapp3.1\Text Processing - Lab.exe
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\bin\Debug\netcoreapp3.1\Text Processing - Lab.deps.json
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\bin\Debug\netcoreapp3.1\Text Processing - Lab.runtimeconfig.json
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\bin\Debug\netcoreapp3.1\Text Processing - Lab.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\bin\Debug\netcoreapp3.1\Text Processing - Lab.dll
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\bin\Debug\netcoreapp3.1\Text Processing - Lab.pdb
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp3.1\Text Processing - Lab.csproj.AssemblyReference.cache
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp3.1\Text Processing - Lab.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp3.1\Text Processing - Lab.AssemblyInfo.cs
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp3.1\Text Processing - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp3.1\Text Processing - Lab.dll
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp3.1\Text Processing - Lab.pdb
+C:\Users\Titan\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp3.1\Text Processing - Lab.genruntimeconfig.cache
