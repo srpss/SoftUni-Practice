@@ -1,0 +1,13 @@
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.exe
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.deps.json
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.runtimeconfig.json
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.dll
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\bin\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.pdb
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.csproj.AssemblyReference.cache
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.AssemblyInfo.cs
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.dll
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.pdb
+C:\Users\Titan\source\repos\02. Programming Fundamentals Final Exam\02. Programming Fundamentals Final Exam\obj\Debug\netcoreapp3.1\02. Programming Fundamentals Final Exam.genruntimeconfig.cache
