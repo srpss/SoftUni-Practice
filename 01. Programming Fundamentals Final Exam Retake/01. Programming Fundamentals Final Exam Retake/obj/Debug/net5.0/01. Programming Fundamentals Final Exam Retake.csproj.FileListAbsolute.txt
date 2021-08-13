@@ -1,0 +1,16 @@
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.exe
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.deps.json
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.runtimeconfig.json
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.dll
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\ref\01. Programming Fundamentals Final Exam Retake.dll
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\bin\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.pdb
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.csproj.AssemblyReference.cache
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.AssemblyInfo.cs
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.dll
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\ref\01. Programming Fundamentals Final Exam Retake.dll
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.pdb
+C:\Users\Titan\source\repos\01. Programming Fundamentals Final Exam Retake\01. Programming Fundamentals Final Exam Retake\obj\Debug\net5.0\01. Programming Fundamentals Final Exam Retake.genruntimeconfig.cache
