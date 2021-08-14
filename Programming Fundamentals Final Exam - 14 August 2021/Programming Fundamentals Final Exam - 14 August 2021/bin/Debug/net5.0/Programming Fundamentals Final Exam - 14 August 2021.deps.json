@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programming Fundamentals Final Exam - 14 August 2021/1.0.0": {
+        "runtime": {
+          "Programming Fundamentals Final Exam - 14 August 2021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programming Fundamentals Final Exam - 14 August 2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

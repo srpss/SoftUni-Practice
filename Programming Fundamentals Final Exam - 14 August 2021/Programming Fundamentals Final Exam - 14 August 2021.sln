@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Fundamentals Final Exam - 14 August 2021", "Programming Fundamentals Final Exam - 14 August 2021\Programming Fundamentals Final Exam - 14 August 2021.csproj", "{6C752440-0BAF-45C1-B88D-E327AF3A7A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C752440-0BAF-45C1-B88D-E327AF3A7A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C752440-0BAF-45C1-B88D-E327AF3A7A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C752440-0BAF-45C1-B88D-E327AF3A7A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C752440-0BAF-45C1-B88D-E327AF3A7A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D94A0BD5-86EF-417C-A365-12085EB04CA9}
+	EndGlobalSection
+EndGlobal
