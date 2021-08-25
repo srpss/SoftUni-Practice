@@ -1,0 +1,14 @@
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.exe
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.deps.json
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.runtimeconfig.json
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.dll
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.pdb
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.csproj.AssemblyReference.cache
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.AssemblyInfo.cs
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.dll
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.pdb
+C:\Users\Titan\source\repos\Stacks and Queues - Lab - Core\Stacks and Queues - Lab - Core\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab - Core.genruntimeconfig.cache
