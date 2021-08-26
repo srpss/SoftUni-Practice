@@ -1,0 +1,14 @@
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\bin\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.exe
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\bin\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.deps.json
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\bin\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.runtimeconfig.json
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\bin\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\bin\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.dll
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\bin\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.pdb
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.csproj.AssemblyReference.cache
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.AssemblyInfo.cs
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.dll
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.pdb
+C:\Users\Titan\source\repos\Multidimensional Arrays - Lab\Multidimensional Arrays - Lab\obj\Debug\netcoreapp3.1\Multidimensional Arrays - Lab.genruntimeconfig.cache
