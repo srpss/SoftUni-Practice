@@ -1,0 +1,14 @@
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\bin\Debug\netcoreapp3.1\CSharp Advanced Exam.exe
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\bin\Debug\netcoreapp3.1\CSharp Advanced Exam.deps.json
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\bin\Debug\netcoreapp3.1\CSharp Advanced Exam.runtimeconfig.json
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\bin\Debug\netcoreapp3.1\CSharp Advanced Exam.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\bin\Debug\netcoreapp3.1\CSharp Advanced Exam.dll
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\bin\Debug\netcoreapp3.1\CSharp Advanced Exam.pdb
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\obj\Debug\netcoreapp3.1\CSharp Advanced Exam.csproj.AssemblyReference.cache
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\obj\Debug\netcoreapp3.1\CSharp Advanced Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\obj\Debug\netcoreapp3.1\CSharp Advanced Exam.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\obj\Debug\netcoreapp3.1\CSharp Advanced Exam.AssemblyInfo.cs
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\obj\Debug\netcoreapp3.1\CSharp Advanced Exam.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\obj\Debug\netcoreapp3.1\CSharp Advanced Exam.dll
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\obj\Debug\netcoreapp3.1\CSharp Advanced Exam.pdb
+C:\Users\Titan\source\repos\CSharp Advanced Exam\CSharp Advanced Exam\obj\Debug\netcoreapp3.1\CSharp Advanced Exam.genruntimeconfig.cache
