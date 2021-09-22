@@ -1,0 +1,14 @@
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\Stacks and Queues - Exercise.exe
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\Stacks and Queues - Exercise.deps.json
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\Stacks and Queues - Exercise.runtimeconfig.json
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\Stacks and Queues - Exercise.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\Stacks and Queues - Exercise.dll
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\Stacks and Queues - Exercise.pdb
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\Stacks and Queues - Exercise.csproj.AssemblyReference.cache
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\Stacks and Queues - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\Stacks and Queues - Exercise.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\Stacks and Queues - Exercise.AssemblyInfo.cs
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\Stacks and Queues - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\Stacks and Queues - Exercise.dll
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\Stacks and Queues - Exercise.pdb
+C:\Users\Titan\source\repos\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\Stacks and Queues - Exercise.genruntimeconfig.cache
