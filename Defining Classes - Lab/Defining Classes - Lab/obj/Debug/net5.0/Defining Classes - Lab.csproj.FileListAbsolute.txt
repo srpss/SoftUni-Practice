@@ -1,0 +1,16 @@
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\bin\Debug\net5.0\Defining Classes - Lab.exe
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\bin\Debug\net5.0\Defining Classes - Lab.deps.json
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\bin\Debug\net5.0\Defining Classes - Lab.runtimeconfig.json
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\bin\Debug\net5.0\Defining Classes - Lab.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\bin\Debug\net5.0\Defining Classes - Lab.dll
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\bin\Debug\net5.0\ref\Defining Classes - Lab.dll
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\bin\Debug\net5.0\Defining Classes - Lab.pdb
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\obj\Debug\net5.0\Defining Classes - Lab.csproj.AssemblyReference.cache
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\obj\Debug\net5.0\Defining Classes - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\obj\Debug\net5.0\Defining Classes - Lab.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\obj\Debug\net5.0\Defining Classes - Lab.AssemblyInfo.cs
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\obj\Debug\net5.0\Defining Classes - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\obj\Debug\net5.0\Defining Classes - Lab.dll
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\obj\Debug\net5.0\ref\Defining Classes - Lab.dll
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\obj\Debug\net5.0\Defining Classes - Lab.pdb
+C:\Users\Titan\source\repos\Defining Classes - Lab\Defining Classes - Lab\obj\Debug\net5.0\Defining Classes - Lab.genruntimeconfig.cache
