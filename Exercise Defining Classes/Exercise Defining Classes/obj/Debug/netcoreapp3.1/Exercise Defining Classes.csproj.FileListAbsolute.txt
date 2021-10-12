@@ -1,0 +1,14 @@
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\bin\Debug\netcoreapp3.1\Exercise Defining Classes.exe
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\bin\Debug\netcoreapp3.1\Exercise Defining Classes.deps.json
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\bin\Debug\netcoreapp3.1\Exercise Defining Classes.runtimeconfig.json
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\bin\Debug\netcoreapp3.1\Exercise Defining Classes.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\bin\Debug\netcoreapp3.1\Exercise Defining Classes.dll
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\bin\Debug\netcoreapp3.1\Exercise Defining Classes.pdb
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\obj\Debug\netcoreapp3.1\Exercise Defining Classes.csproj.AssemblyReference.cache
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\obj\Debug\netcoreapp3.1\Exercise Defining Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\obj\Debug\netcoreapp3.1\Exercise Defining Classes.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\obj\Debug\netcoreapp3.1\Exercise Defining Classes.AssemblyInfo.cs
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\obj\Debug\netcoreapp3.1\Exercise Defining Classes.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\obj\Debug\netcoreapp3.1\Exercise Defining Classes.dll
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\obj\Debug\netcoreapp3.1\Exercise Defining Classes.pdb
+C:\Users\Titan\source\repos\Exercise Defining Classes\Exercise Defining Classes\obj\Debug\netcoreapp3.1\Exercise Defining Classes.genruntimeconfig.cache
