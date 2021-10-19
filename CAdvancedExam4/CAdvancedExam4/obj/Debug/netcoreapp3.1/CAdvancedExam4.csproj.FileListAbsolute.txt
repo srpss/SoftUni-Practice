@@ -1,0 +1,14 @@
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\CAdvancedExam4.exe
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\CAdvancedExam4.deps.json
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\CAdvancedExam4.runtimeconfig.json
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\CAdvancedExam4.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\CAdvancedExam4.dll
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\CAdvancedExam4.pdb
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\CAdvancedExam4.csproj.AssemblyReference.cache
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\CAdvancedExam4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\CAdvancedExam4.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\CAdvancedExam4.AssemblyInfo.cs
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\CAdvancedExam4.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\CAdvancedExam4.dll
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\CAdvancedExam4.pdb
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\CAdvancedExam4.genruntimeconfig.cache

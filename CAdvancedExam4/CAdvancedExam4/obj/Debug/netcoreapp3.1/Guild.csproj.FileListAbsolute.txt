@@ -1,0 +1,14 @@
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\Guild.csproj.AssemblyReference.cache
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\Guild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\Guild.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\Guild.AssemblyInfo.cs
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\Guild.csproj.CoreCompileInputs.cache
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\Guild.exe
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\Guild.deps.json
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.json
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\Guild.dll
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\bin\Debug\netcoreapp3.1\Guild.pdb
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\Guild.dll
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\Guild.pdb
+C:\Users\Titan\source\repos\CAdvancedExam4\CAdvancedExam4\obj\Debug\netcoreapp3.1\Guild.genruntimeconfig.cache
